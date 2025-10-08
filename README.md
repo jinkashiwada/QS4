@@ -27,7 +27,7 @@ Please note that the current version does not represent the final published work
 ## How to Cite
 If you refer to this work during the review period, please cite it as follows:
 
-> Kashiwada, J. and Nihei, Y. (2025). Evaluation of Water Surface Velocity Distribution Using a Quasi-Static Stabilization Technique for Social Sensing (QS4). Manuscript submitted for publication.
+> Kashiwada, J. and Nihei, Y. (2025). Evaluation of Water Surface Velocity Distribution Using a Quasi-Static Stabilization Technique for Social Sensing. Manuscript submitted for publication.
 
 A DOI and formal citation will be added after acceptance.
 
