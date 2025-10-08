@@ -1,9 +1,9 @@
 # QS4: Quasi-Static Stabilization for Social Sensing
+
 <p align="center">
-  <video src="demo.mp4" autoplay loop muted playsinline width="720">
-    Your browser does not support the video tag.
-  </video>
+  <img src="demo.gif" width="720" alt="QS4 Demo">
 </p>
+
 This repository contains the source codes and example data used in the study submitted to the *International Journal of Disaster Risk Reduction (IJDRR)*.
 
 ---
